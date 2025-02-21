@@ -1,5 +1,9 @@
 /* global styles */
  
+
+p {
+    text-align: left;
+}
 body { 
     background-color: burlywood;
 
