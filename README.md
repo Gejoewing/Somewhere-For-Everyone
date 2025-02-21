@@ -1,5 +1,3 @@
-# Somewhere-For-Everyone
+# Somewhere, for everyone. 
 
-   <li> <a href="index.html">Home</a> </li> 
-        <li> <a href="Clubs.html">Clubs</a> </li> 
-        <li> <a href="Contact.html"> Contact </a> </li>
+<a href="file:///C:/Users/Lilyp/OneDrive/Documents/GitHub/WD/Somewhere-For-Everyone/Reactive/index.html"> Somewhere For everyone. </a>
